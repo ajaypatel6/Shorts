@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142173768020",
+    "project_id": "shorts-2f0a2",
+    "storage_bucket": "shorts-2f0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142173768020:android:86c9cc21276e5a3444a0c1",
+        "android_client_info": {
+          "package_name": "ca.ajaypatel.shorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142173768020-e6nu3gjjujt4g6o1n7j0nk7qqnr3dte8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sKP1DdRpkF-tehOo6noKSQYin5l_okE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142173768020-e6nu3gjjujt4g6o1n7j0nk7qqnr3dte8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
