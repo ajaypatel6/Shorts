@@ -1,5 +1,7 @@
 # Shorts
+
 A social-media like app that allows users to create stories and have those stories be viewed on the dashboard at random, (favoring newer stories)
+![ic_launcher-playstore](https://user-images.githubusercontent.com/68916597/109037483-c2c92200-7698-11eb-8a15-28d1b095f257.png)
 
 Application created with Android Studio, using Kotlin , Cloud Firestore NoSQL database.
 
