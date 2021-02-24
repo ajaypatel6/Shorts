@@ -1,7 +1,7 @@
 # Shorts
 
 A social-media like app that allows users to create stories and have those stories be viewed on the dashboard at random, (favoring newer stories)
-https://goo.gl/JcucLp
+![resized-image-Promo (1)](https://user-images.githubusercontent.com/68916597/109037712-07ed5400-7699-11eb-8195-142f45e83aa6.jpeg)
 
 
 
