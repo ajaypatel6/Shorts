@@ -10,7 +10,7 @@ Application created with Android Studio, using Kotlin , Cloud Firestore NoSQL da
 # What I did
 This was my first application I created with Kotlin. It seems very efficient in comparison to Java and i could see how development with it would be faster.
 
-Using cloud firestore was interesting, it helped with user authentication and has good support for its database and allowed me to see a NoSQL database and how it works.
+Using cloud firestore was interesting, it helped with user authentication and has good support for its database and allowed me to see a NoSQL database and how it works. Learning about how and what is possible to query, creating new collections, adding documents, updating documents, cloud firestore allowed me to do a lot
 
 # Screenshots
 
